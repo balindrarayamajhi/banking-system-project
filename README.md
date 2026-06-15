@@ -116,3 +116,5 @@ The system separates responsibilities into layers:
 - `cli`: command-line user interface
 - `utils`: logging setup
 
+## Link for class digram 
+https://lucid.app/lucidchart/68760757-810f-4c3b-9fbc-d3329e6af6df/edit?page=0_0#
